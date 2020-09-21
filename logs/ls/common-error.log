@@ -1,0 +1,359 @@
+2020-09-21 11:30:08,710 ERROR 71558 nodejs.ClusterClientNoResponseError: client no response in 165236ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/didi/GitHub/eggjs/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:551:17)
+    at processTimers (internal/timers.js:494:7)
+name: "ClusterClientNoResponseError"
+pid: 71558
+hostname: bogon
+
+2020-09-21 11:33:14,081 ERROR 71558 nodejs.ClusterClientNoResponseError: client no response in 165369ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/didi/GitHub/eggjs/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:551:17)
+    at processTimers (internal/timers.js:494:7)
+name: "ClusterClientNoResponseError"
+pid: 71558
+hostname: bogon
+
+2020-09-21 11:35:54,106 ERROR 71558 nodejs.ClusterClientNoResponseError: client no response in 160013ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/didi/GitHub/eggjs/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:551:17)
+    at processTimers (internal/timers.js:494:7)
+name: "ClusterClientNoResponseError"
+pid: 71558
+hostname: bogon
+
+2020-09-21 11:37:14,881 ERROR 71558 nodejs.ClusterClientNoResponseError: client no response in 60763ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/didi/GitHub/eggjs/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:551:17)
+    at processTimers (internal/timers.js:494:7)
+name: "ClusterClientNoResponseError"
+pid: 71558
+hostname: bogon
+
+2020-09-21 11:38:20,732 ERROR 71558 nodejs.ClusterClientNoResponseError: client no response in 65848ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/didi/GitHub/eggjs/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:551:17)
+    at processTimers (internal/timers.js:494:7)
+name: "ClusterClientNoResponseError"
+pid: 71558
+hostname: bogon
+
+2020-09-21 11:41:46,235 ERROR 71558 nodejs.ClusterClientNoResponseError: client no response in 185488ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/didi/GitHub/eggjs/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:551:17)
+    at processTimers (internal/timers.js:494:7)
+name: "ClusterClientNoResponseError"
+pid: 71558
+hostname: bogon
+
+2020-09-21 11:49:25,613 ERROR 71558 nodejs.ClusterClientNoResponseError: client no response in 419347ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/didi/GitHub/eggjs/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:551:17)
+    at processTimers (internal/timers.js:494:7)
+name: "ClusterClientNoResponseError"
+pid: 71558
+hostname: bogon
+
+2020-09-21 11:54:00,867 ERROR 71558 nodejs.ClusterClientNoResponseError: client no response in 275244ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/didi/GitHub/eggjs/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:551:17)
+    at processTimers (internal/timers.js:494:7)
+name: "ClusterClientNoResponseError"
+pid: 71558
+hostname: bogon
+
+2020-09-21 11:55:52,861 ERROR 71558 nodejs.ClusterClientNoResponseError: client no response in 91985ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/didi/GitHub/eggjs/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:551:17)
+    at processTimers (internal/timers.js:494:7)
+name: "ClusterClientNoResponseError"
+pid: 71558
+hostname: bogon
+
+2020-09-21 11:58:45,444 ERROR 71558 nodejs.ClusterClientNoResponseError: client no response in 152569ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/didi/GitHub/eggjs/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:551:17)
+    at processTimers (internal/timers.js:494:7)
+name: "ClusterClientNoResponseError"
+pid: 71558
+hostname: bogon
+
+2020-09-21 12:00:50,160 ERROR 71558 nodejs.ClusterClientNoResponseError: client no response in 65762ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/didi/GitHub/eggjs/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:551:17)
+    at processTimers (internal/timers.js:494:7)
+name: "ClusterClientNoResponseError"
+pid: 71558
+hostname: bogon
+
+2020-09-21 13:31:43,396 ERROR 71558 nodejs.ClusterClientNoResponseError: client no response in 5453225ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/didi/GitHub/eggjs/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:551:17)
+    at processTimers (internal/timers.js:494:7)
+name: "ClusterClientNoResponseError"
+pid: 71558
+hostname: bogon
+
+2020-09-21 15:54:42,112 ERROR 81084 [-/::1/-/6ms GET /news] nodejs.AssertionError: Can't find list.tpl from /Users/didi/GitHub/eggjs/app/view
+    at Map.resolve (/Users/didi/GitHub/eggjs/node_modules/egg-view/lib/view_manager.js:74:5)
+    at async ContextView.[contextView#render] (/Users/didi/GitHub/eggjs/node_modules/egg-view/lib/context_view.js:50:22)
+    at async NewsController.list (/Users/didi/GitHub/eggjs/app/controller/news.js:19:9)
+    at async /Users/didi/GitHub/eggjs/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/didi/GitHub/eggjs/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/didi/GitHub/eggjs/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/didi/GitHub/eggjs/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/didi/GitHub/eggjs/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/didi/GitHub/eggjs/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/didi/GitHub/eggjs/node_modules/koa-bodyparser/index.js:95:5)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 81084
+hostname: bogon
+
+2020-09-21 15:55:14,441 ERROR 81122 [-/::1/-/5ms GET /news] nodejs.AssertionError: Can't find ../news/list.tpl from /Users/didi/GitHub/eggjs/app/view
+    at Map.resolve (/Users/didi/GitHub/eggjs/node_modules/egg-view/lib/view_manager.js:74:5)
+    at async ContextView.[contextView#render] (/Users/didi/GitHub/eggjs/node_modules/egg-view/lib/context_view.js:50:22)
+    at async NewsController.list (/Users/didi/GitHub/eggjs/app/controller/news.js:19:9)
+    at async /Users/didi/GitHub/eggjs/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/didi/GitHub/eggjs/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/didi/GitHub/eggjs/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/didi/GitHub/eggjs/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/didi/GitHub/eggjs/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/didi/GitHub/eggjs/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/didi/GitHub/eggjs/node_modules/koa-bodyparser/index.js:95:5)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 81122
+hostname: bogon
+
+2020-09-21 16:08:54,035 ERROR 81964 [-/::1/-/6ms GET /news] nodejs.TypeError: Cannot read property 'list' of undefined
+    at NewsController.list (/Users/didi/GitHub/eggjs/app/controller/news.js:20:54)
+    at Object.callFn (/Users/didi/GitHub/eggjs/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/didi/GitHub/eggjs/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:45:18)
+    at /Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:44:32)
+    at /Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:36:12
+
+pid: 81964
+hostname: bogon
+
+2020-09-21 16:09:37,997 ERROR 81964 [-/::1/-/0ms GET /news] nodejs.TypeError: Cannot read property 'list' of undefined
+    at NewsController.list (/Users/didi/GitHub/eggjs/app/controller/news.js:20:54)
+    at Object.callFn (/Users/didi/GitHub/eggjs/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/didi/GitHub/eggjs/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:45:18)
+    at /Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:44:32)
+    at /Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:36:12
+
+pid: 81964
+hostname: bogon
+
+2020-09-21 16:10:17,732 ERROR 81964 [-/::1/-/0ms GET /news] nodejs.TypeError: Cannot read property 'list' of undefined
+    at NewsController.list (/Users/didi/GitHub/eggjs/app/controller/news.js:20:54)
+    at Object.callFn (/Users/didi/GitHub/eggjs/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/didi/GitHub/eggjs/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:45:18)
+    at /Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:44:32)
+    at /Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:36:12
+
+pid: 81964
+hostname: bogon
+
+2020-09-21 16:12:23,049 ERROR 82259 [-/::1/-/7ms GET /news] nodejs.TypeError: Cannot read property 'list' of undefined
+    at NewsController.list (/Users/didi/GitHub/eggjs/app/controller/news.js:21:54)
+    at Object.callFn (/Users/didi/GitHub/eggjs/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/didi/GitHub/eggjs/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:45:18)
+    at /Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:44:32)
+    at /Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:36:12
+
+pid: 82259
+hostname: bogon
+
+2020-09-21 16:12:35,104 ERROR 82259 [-/::1/-/1ms GET /news] nodejs.TypeError: Cannot read property 'list' of undefined
+    at NewsController.list (/Users/didi/GitHub/eggjs/app/controller/news.js:21:54)
+    at Object.callFn (/Users/didi/GitHub/eggjs/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/didi/GitHub/eggjs/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:45:18)
+    at /Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:44:32)
+    at /Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:36:12
+
+pid: 82259
+hostname: bogon
+
+2020-09-21 16:13:19,522 ERROR 82320 [-/::1/-/8ms GET /news] nodejs.TypeError: Cannot read property 'list' of undefined
+    at NewsController.list (/Users/didi/GitHub/eggjs/app/controller/news.js:21:54)
+    at Object.callFn (/Users/didi/GitHub/eggjs/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/didi/GitHub/eggjs/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:45:18)
+    at /Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:44:32)
+    at /Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:36:12
+
+pid: 82320
+hostname: bogon
+
+2020-09-21 16:13:37,393 ERROR 82336 [-/::1/-/7ms GET /news] nodejs.TypeError: Cannot read property 'list' of undefined
+    at NewsController.list (/Users/didi/GitHub/eggjs/app/controller/news.js:21:54)
+    at Object.callFn (/Users/didi/GitHub/eggjs/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/didi/GitHub/eggjs/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:45:18)
+    at /Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:44:32)
+    at /Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:36:12
+
+pid: 82336
+hostname: bogon
+
+2020-09-21 16:14:41,679 ERROR 82412 [-/::1/-/8ms GET /news] nodejs.TypeError: Cannot read property 'list' of undefined
+    at NewsController.list (/Users/didi/GitHub/eggjs/app/controller/news.js:21:54)
+    at Object.callFn (/Users/didi/GitHub/eggjs/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/didi/GitHub/eggjs/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:45:18)
+    at /Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:44:32)
+    at /Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:36:12
+
+pid: 82412
+hostname: bogon
+
+2020-09-21 16:15:51,700 ERROR 82484 [-/::1/-/7ms GET /news] nodejs.TypeError: Cannot read property 'list' of undefined
+    at NewsController.list (/Users/didi/GitHub/eggjs/app/controller/news.js:21:54)
+    at Object.callFn (/Users/didi/GitHub/eggjs/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/didi/GitHub/eggjs/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:45:18)
+    at /Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:44:32)
+    at /Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:36:12
+
+pid: 82484
+hostname: bogon
+
+2020-09-21 16:16:22,275 ERROR 82513 [-/::1/-/5ms GET /news] nodejs.TypeError: Cannot read property 'list' of undefined
+    at NewsController.list (/Users/didi/GitHub/eggjs/app/controller/news.js:21:54)
+    at Object.callFn (/Users/didi/GitHub/eggjs/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/didi/GitHub/eggjs/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:45:18)
+    at /Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:44:32)
+    at /Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:36:12
+
+pid: 82513
+hostname: bogon
+
+2020-09-21 16:16:28,841 ERROR 82526 [-/::1/-/8ms GET /news] nodejs.TypeError: Cannot read property 'list' of undefined
+    at NewsController.list (/Users/didi/GitHub/eggjs/app/controller/news.js:21:54)
+    at Object.callFn (/Users/didi/GitHub/eggjs/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/didi/GitHub/eggjs/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:45:18)
+    at /Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:44:32)
+    at /Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:36:12
+
+pid: 82526
+hostname: bogon
+
+2020-09-21 16:17:26,887 ERROR 82585 [-/::1/-/5ms GET /news] nodejs.TypeError: Cannot read property 'list' of undefined
+    at NewsController.list (/Users/didi/GitHub/eggjs/app/controller/news.js:15:45)
+    at Object.callFn (/Users/didi/GitHub/eggjs/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/didi/GitHub/eggjs/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:45:18)
+    at /Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:44:32)
+    at /Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:36:12
+
+pid: 82585
+hostname: bogon
+
+2020-09-21 16:17:28,432 ERROR 82585 [-/::1/-/1ms GET /news] nodejs.TypeError: Cannot read property 'list' of undefined
+    at NewsController.list (/Users/didi/GitHub/eggjs/app/controller/news.js:15:45)
+    at Object.callFn (/Users/didi/GitHub/eggjs/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/didi/GitHub/eggjs/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:45:18)
+    at /Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:44:32)
+    at /Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:36:12
+
+pid: 82585
+hostname: bogon
+
+2020-09-21 16:18:30,603 ERROR 82644 [-/::1/-/4ms GET /news] nodejs.TypeError: Cannot read property 'list' of undefined
+    at NewsController.list (/Users/didi/GitHub/eggjs/app/controller/news.js:15:45)
+    at Object.callFn (/Users/didi/GitHub/eggjs/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/didi/GitHub/eggjs/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:45:18)
+    at /Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:44:32)
+    at /Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:36:12
+
+pid: 82644
+hostname: bogon
+
+2020-09-21 16:19:11,850 ERROR 82644 [-/::1/-/1ms GET /news] nodejs.TypeError: Cannot read property 'list' of undefined
+    at NewsController.list (/Users/didi/GitHub/eggjs/app/controller/news.js:15:45)
+    at Object.callFn (/Users/didi/GitHub/eggjs/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/didi/GitHub/eggjs/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:45:18)
+    at /Users/didi/GitHub/eggjs/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:44:32)
+    at /Users/didi/GitHub/eggjs/node_modules/koa-compose/index.js:36:12
+
+pid: 82644
+hostname: bogon
+

@@ -1,0 +1,288 @@
+{
+  "keys": "/Users/didi/GitHub/eggjs/config/config.default.js",
+  "view": {
+    "defaultViewEngine": "/Users/didi/GitHub/eggjs/config/config.default.js",
+    "mapping": {
+      ".tpl": "/Users/didi/GitHub/eggjs/config/config.default.js"
+    },
+    "root": "/Users/didi/GitHub/eggjs/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/didi/GitHub/eggjs/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/didi/GitHub/eggjs/node_modules/egg-view/config/config.default.js"
+  },
+  "news": {
+    "pageSize": "/Users/didi/GitHub/eggjs/config/config.default.js",
+    "serverUrl": "/Users/didi/GitHub/eggjs/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/didi/GitHub/eggjs/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/didi/GitHub/eggjs/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/didi/GitHub/eggjs/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/didi/GitHub/eggjs/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/didi/GitHub/eggjs/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/didi/GitHub/eggjs/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/didi/GitHub/eggjs/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/didi/GitHub/eggjs/node_modules/egg-security/config/config.default.js",
+      "type": "/Users/didi/GitHub/eggjs/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/didi/GitHub/eggjs/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/didi/GitHub/eggjs/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/didi/GitHub/eggjs/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/didi/GitHub/eggjs/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/didi/GitHub/eggjs/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/didi/GitHub/eggjs/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/didi/GitHub/eggjs/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/didi/GitHub/eggjs/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/didi/GitHub/eggjs/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/didi/GitHub/eggjs/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/didi/GitHub/eggjs/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/didi/GitHub/eggjs/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/didi/GitHub/eggjs/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/didi/GitHub/eggjs/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/didi/GitHub/eggjs/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/didi/GitHub/eggjs/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/didi/GitHub/eggjs/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/didi/GitHub/eggjs/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/didi/GitHub/eggjs/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/didi/GitHub/eggjs/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/didi/GitHub/eggjs/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/didi/GitHub/eggjs/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/didi/GitHub/eggjs/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/didi/GitHub/eggjs/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/didi/GitHub/eggjs/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/didi/GitHub/eggjs/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/didi/GitHub/eggjs/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/didi/GitHub/eggjs/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/didi/GitHub/eggjs/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/didi/GitHub/eggjs/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/didi/GitHub/eggjs/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/didi/GitHub/eggjs/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/didi/GitHub/eggjs/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/didi/GitHub/eggjs/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/didi/GitHub/eggjs/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/didi/GitHub/eggjs/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/didi/GitHub/eggjs/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/didi/GitHub/eggjs/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/didi/GitHub/eggjs/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/didi/GitHub/eggjs/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/didi/GitHub/eggjs/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/didi/GitHub/eggjs/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/didi/GitHub/eggjs/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/didi/GitHub/eggjs/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/didi/GitHub/eggjs/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/didi/GitHub/eggjs/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/didi/GitHub/eggjs/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/didi/GitHub/eggjs/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/didi/GitHub/eggjs/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/didi/GitHub/eggjs/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/didi/GitHub/eggjs/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/didi/GitHub/eggjs/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/didi/GitHub/eggjs/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/didi/GitHub/eggjs/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/didi/GitHub/eggjs/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/didi/GitHub/eggjs/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/didi/GitHub/eggjs/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/didi/GitHub/eggjs/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/didi/GitHub/eggjs/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/didi/GitHub/eggjs/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/didi/GitHub/eggjs/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/Users/didi/GitHub/eggjs/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/didi/GitHub/eggjs/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/didi/GitHub/eggjs/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/didi/GitHub/eggjs/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/didi/GitHub/eggjs/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/didi/GitHub/eggjs/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/didi/GitHub/eggjs/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/didi/GitHub/eggjs/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/didi/GitHub/eggjs/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/didi/GitHub/eggjs/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/didi/GitHub/eggjs/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/didi/GitHub/eggjs/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/didi/GitHub/eggjs/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/didi/GitHub/eggjs/node_modules/egg-static/config/config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "/Users/didi/GitHub/eggjs/node_modules/egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/Users/didi/GitHub/eggjs/node_modules/egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/Users/didi/GitHub/eggjs/node_modules/egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/Users/didi/GitHub/eggjs/node_modules/egg-view-nunjucks/config/config.default.js",
+    "cache": "/Users/didi/GitHub/eggjs/node_modules/egg-view-nunjucks/config/config.local.js"
+  },
+  "env": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+  "name": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+    "version": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+    "description": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+    "main": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "test": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+      "dev": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+      "url": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+    "license": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+    "bugs": {
+      "url": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js"
+    },
+    "homepage": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+      "egg-view-nunjucks": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+      "moment": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+    "strict": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+      "depth": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+    "env": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+    "level": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+    "logging": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+      "port": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/didi/GitHub/eggjs/node_modules/egg/config/config.default.js"
+}

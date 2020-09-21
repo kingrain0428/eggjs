@@ -1,0 +1,28 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "eggjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "egg-bin dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingrain0428/eggjs.git"
+  },
+  "author": "wangyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kingrain0428/eggjs/issues"
+  },
+  "homepage": "https://github.com/kingrain0428/eggjs#readme",
+  "dependencies": {
+    "egg": "^2.28.0",
+    "egg-view-nunjucks": "^2.2.0",
+    "moment": "^2.28.0"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.15.0"
+  }
+}
